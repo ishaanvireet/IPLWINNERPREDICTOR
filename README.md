@@ -24,7 +24,6 @@ It includes match results, team statistics, and player performances from past IP
 
 **Credits**
 This project is based on IPL win predictor by CampusX.
-You can find the original work here: '''https://github.com/campusx-official/ipl-win-probability-predictor'''
 
 
 
