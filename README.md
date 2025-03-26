@@ -22,6 +22,9 @@ It includes match results, team statistics, and player performances from past IP
 4. cd IPLWINNERPREDICTOR
 5. pip install -r requirements.txt
 
+**LINK TO WEBSITE:**
+https://ipl-winner-teampredictor.onrender.com/
+
 **CREDITS**
 This project is based on IPL win predictor by CampusX.
 
