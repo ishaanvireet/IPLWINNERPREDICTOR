@@ -2,11 +2,12 @@
 IPL WINNER PREDICTOR SYSTEM
 
 **DESCRIPTION:** 
-This is a machine learning-based IPL Winner Team Predictor. It uses past match data, team performance, and key statistics to predict the possible winner of an IPL match. The model is trained on historical IPL datasets.
+This is a machine learning-based IPL Winner Team Predictor. It uses past match data, team performance, and key statistics to predict the possible winner of an IPL match. The model is trained on historical IPL datasets. The model is fine tuned using LORA.
 
 **FEATURES:**
 - Predicts the winning team based on past data  
-- Uses machine learning algorithms for prediction  
+- Uses machine learning algorithms for prediction
+- Fine tuning using LORA
 - Data preprocessing and feature selection  
 - Visualization of important factors affecting match outcomes  
 - Decent User-friendly interface
