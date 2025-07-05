@@ -12,8 +12,6 @@ This is a machine learning-based IPL Winner Team Predictor. It uses past match d
 - Visualization of important factors affecting match outcomes  
 - Decent User-friendly interface
 
-**LINK TO WEBSITE:** https://ipl-winner-prediction-system.netlify.app/
-
 **DATASET**
 The dataset used for this project is sourced from Kaggle.com.  
 It includes match results, team statistics, and player performances from past IPL seasons.  
